@@ -1,6 +1,4 @@
-### About Me 👋
-
-Hi, I'm Tapas Kumar Dutta. 
+### Hi, I'm Tapas Kumar Dutta. 
 
 - 🔭 Currently, I'm deeply engaged in the world of Optical Recognition Technology.
 - 😄 You can refer to me using He/His/Him pronouns.
