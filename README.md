@@ -1,6 +1,6 @@
 ### Hi, I'm Tapas Kumar Dutta. 
 
-- 🔭 Currently, I'm deeply engaged in the world of Optical Recognition Technology.
+- 🔭 Currently, I'm deeply engaged in various Computer Vision challenges.
 - 😄 You can refer to me using He/His/Him pronouns.
 - ⚡ Fun fact: I have a strong penchant for movies, with Horror and Thriller genres topping my list of favorites.
 
