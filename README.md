@@ -36,5 +36,6 @@ I have actively contributed to multiple international research teams, collaborat
 - **Google Scholar**: [Research](https://scholar.google.com/citations?user=6h4w80EAAAAJ&hl=en)
 - **GitHub**: [TapasKumarDutta1](https://github.com/TapasKumarDutta1)
 - **Email**: [tapasduttatom13@gmail.com](mailto:tapasduttatom13@gmail.com)
+- **Kaggle**: [tapaskd123](https://www.kaggle.com/tapaskd123)
 
 *I am enthusiastic about potential research collaborations and opportunities. Please feel free to reach out if you would like to discuss research ideas or opportunities.*
