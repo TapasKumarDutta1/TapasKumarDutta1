@@ -10,30 +10,6 @@ I am passionate about **computer vision, deep learning, and AI for healthcare**.
 - **[GT-Net](https://link.springer.com/article/10.1007/s13534-024-00393-0)**: Global Transformer Network for Multiclass Brain Tumor Classification  
 - **[ARM-Net](https://www.sciencedirect.com/science/article/pii/S1746809423008546?CMX_ID=)**: Attention-Guided Residual Multiscale CNN for Brain Tumor Classification  
 
-## 💻 Work Experience  
-### Deep Scientist, NHS (UK) 🏥  
-- Led **MediScribe**, reducing patient wait time from **14 days to 1 minute**  
-- Improved **X-ray classification accuracy by 28%** (pending validation)  
-- Developed **RehabFlowl**, tracking physiotherapy progress  
-
-### Deep Learning Engineer, 2Sigma School (USA) 📚  
-- Built an **automated question extraction tool** from PDFs using layout analysis & LangChain  
-
-### Computer Vision Engineer, Big Vision (USA) 🖼️  
-- Worked on **PaddlePaddle** for Object Detection, Segmentation, and Keypoint Similarity  
-
-### Deep Learning Engineer, VIVEN (Japan) 🇯🇵  
-- Developed prototypes for **garment swap, hearing aid color change, and satellite-based solar panel detection**  
-- Built an **OCR pipeline for Japanese text recognition**  
-
-## 🏆 Kaggle & AI Challenges  
-- **Google Landmark Recognition (Top 11%)** 🏅  
-- **Data Science Bowl (Top 14%)**  
-
-## 📌 Notable Projects  
-- **Japanese Manga Translation**: Text detection (DETR) + Recognition (TrOCR) + Translation (Transformer)  
-- **Anomaly Detection**: Unsupervised **Student-Teacher Model** + HistAuGAN for augmentation  
-
 ## 📫 Connect with Me  
 🔗 **Portfolio**: [tapaskumardutta1.github.io](https://tapaskumardutta1.github.io/)  
 💼 **LinkedIn**: [Tapas Dutta](https://www.linkedin.com/in/tapas-dutta-89a858184/)  
