@@ -4,7 +4,7 @@
 
 I am a Master's student at the **University of Surrey** currently working on my thesis at the [SketchX Lab](http://sketchx.eecs.qmul.ac.uk/) under the guidance of [Subhadeep Koley](https://subhadeepkoley.github.io/) and [Professor Yi-Zhe Song](https://www.surrey.ac.uk/people/yi-zhe-song). My research centers on **Deep Learning, Medical Imaging, and Foundation Models**—developing AI-driven diagnostic tools, advanced X-ray classification systems, and innovative approaches for sketch understanding.
 
-I have actively contributed to multiple international research teams, collaborating with esteemed groups such as [SWLEOC](https://www.epsom-sthelier.nhs.uk/swleoc/), [Bagci Lab](https://bagcilab.com/), and [INRIA, STARS Team](https://team.inria.fr/stars/en/). My research experience spans collaborations across the US, UK, France, Germany, Japan, and India, underscoring my ability to thrive in diverse, multinational environments.
+I have actively contributed to multiple international research teams, collaborating with esteemed groups such as [SWLEOC](https://www.epsom-sthelier.nhs.uk/swleoc/), [Bagci Lab](https://bagcilab.com/), and [INRIA, STARS Team](https://team.inria.fr/stars/en/). My research experience spans collaborations across the US, UK, France, Germany, Japan, and India.
 
 ## 🔬 Research & Publications
 
