@@ -19,8 +19,8 @@ I have actively contributed to multiple international research teams, collaborat
 
 ## 🏆 Competitions & Awards
 
-- **Google Landmark Recognition**: Achieved Top 11%
-- **Data Science Bowl**: Ranked within Top 14%
+- **Google Landmark Recognition 2020**: Achieved Top 11%
+- **Data Science Bowl 2019**: Ranked within Top 14%
 
 ## 📌 Notable Research Projects
 
