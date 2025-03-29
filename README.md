@@ -8,6 +8,8 @@ I have actively contributed to multiple international research teams, collaborat
 
 ## 🔬 Research & Publications
 
+- **[SketchFusion](https://arxiv.org/pdf/2503.14129)**  
+  *SketchFusion: Learning Universal Sketch Features through Fusing Foundation Models (CVPR 2025)*
 - **[SAM-Mamba](https://arxiv.org/pdf/2412.08482)**  
   *Mamba Guided SAM Architecture for Generalized Zero-Shot Polyp Segmentation (WACV 2025)*
 - **[CDANet](https://ieeexplore.ieee.org/document/9897799)**  
@@ -22,7 +24,7 @@ I have actively contributed to multiple international research teams, collaborat
 - **Google Landmark Recognition 2020**: Achieved Top 11%
 - **Data Science Bowl 2019**: Ranked within Top 14%
 
-## 📌 Notable Research Projects
+## 📌 Notable Projects
 
 - **Japanese Manga Translation**:  
   Developed an integrated pipeline using DETR for text detection, TrOCR for recognition, and Transformer models for translation.
